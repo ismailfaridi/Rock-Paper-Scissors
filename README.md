@@ -9,10 +9,10 @@ A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaSc
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ismailfaridi/Rock-Paper-Scissors.git
+   git clone https://github.com/ismailfaridi/Rock-Paper-Scissors-Game.git
 2. Navigate to the project directory:
    ```sh
-   cd Rock-Paper-Scissors
+   cd Rock-Paper-Scissors-Game
 3. Open `index.html` in your browser.
 
 ## Usage
