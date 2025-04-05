@@ -1,6 +1,8 @@
 # Rock-Paper-Scissors
 A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript, featuring real-time player vs. computer gameplay.
 
+**Live:** https://ismailfaridi.github.io/Rock-Paper-Scissors-Game/
+
 ## Features
 - Player vs. Computer mode
 - Randomized computer choices
